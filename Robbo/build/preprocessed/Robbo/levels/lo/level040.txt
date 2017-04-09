@@ -1,0 +1,32 @@
+013081000031000
+MMMMMMMMMMMMMMMM
+M           M* M
+M MAMAMAMAMAMM M
+M $M MAMAM$ M  M
+M           M MM
+MMMMMM MMMMMM  M
+MK  ?M M ?     M
+M    M   M M / M
+M1 0 M M M M   M
+M    M M M MMMMM
+MMMMMM M M #  $M
+(          DMMMM
+MM M MMMAMA    M
+MMMM  MMMM  MM M
+M              M
+MMMMMM  MMM #$ M
+M& $$M $@   MM M
+M&MMMM MMMM    M
+M&M$   M $MMMM M
+M&M MMMM#    M M
+M@M M$ D   # MaM
+M M MMMMM# @ M M
+M M M&&@M MMMM M
+M M MMM  0   M M
+M M   M M M  M M
+M MMM M M M=$M M
+M1 #M M MDMMMM M
+M MMM M M  =$M M
+M     M MMMMMM M
+MMMMMMM     !M$M
+MMMMMMMMMMMMMMMM

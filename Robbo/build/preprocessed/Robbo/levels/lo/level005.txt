@@ -1,0 +1,32 @@
+010073022095008
+MMMMMMMMMMMMMMMM
+M       M      M
+M @@@@  M $  MDM
+M @$#&@ M    MDM
+M @## @ MMMMMMDM
+M @@@@  M>     M
+M @ @     @@@$ M
+M @  @   @###@ M
+M @   @  @#=#@ M
+M v      @#$#@ M
+M @@@@   @#$#@ M
+M @$# @  @###@ M
+M @#  @   @@@$ M
+M @@@@   v     M
+M @#  @  @@@@  M
+M @#  @  @#& @ M
+M @@@@   @#  @ M
+M     v  @@@@  M
+M  @@@   @#& @ M
+M @###@  @#  @ M
+M @#=#@  @@@@  M
+M @#$#@     #  M
+M @#$#@MM### MMM
+M @###@   -    M
+M  @@@$MM   MMMM
+M    #  M   MK$M
+>       MMMMM  M
+M              <
+M  MMM  MMM    M
+M* M$          {
+MMMMMMMMMMMMMMMM

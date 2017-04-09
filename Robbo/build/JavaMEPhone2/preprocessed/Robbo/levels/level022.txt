@@ -1,0 +1,32 @@
+007077096096096
+MMMMMMMMMMMMMMMM
+M            q*M
+M MMMM$$MMMM   M
+M M  MMMM  M  @M
+M M        M   M
+M M M K  M M  @M
+M M MM  MM M   M
+M M        M  @M
+M M @ @ @ EM   M
+M M M MM M M  @M
+M E   M        M
+M#####M @@@@@ @M
+M#####M     @  M
+M#####M @@@@@ @M
+M#####M     @  M
+M$####M @@@@@ @M
+M$####M     @  M
+M$####M @@@@@ @M
+M#####M     @  M
+M#####M @@@@@  M
+M#####M        M
+M#####$MMMMMM MM
+M          MM MM
+M MMM   M@ @  MM
+M   @     M M MM
+M MM MM@M M M MM
+M   @   M M@   M
+M MM MMMM M MM M
+M ?M           M
+M    MMMMMMM$MMM
+MMMMMMMMMMMMMMMM

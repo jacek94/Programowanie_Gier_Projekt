@@ -1,0 +1,32 @@
+012097047095000
+MMMMMMMMMMMMMMMM
+M 3 # 2  1 # 0 M
+M### ###### ###M
+M*             M
+MMMMMMMMMMMMMMMM
+M$%%a v        M
+M#%%      o    M
+MMMM    1  ##  M
+M      M M###%%M
+M0  !M$M M   @%M
+MMMMMMMM MMMMMMM
+M}            {M
+MMMMMM MMMMM MMM
+M}        {    )
+M o   MMMMM    M
+M          ?MMMM
+MMMMM@ MDM#=M$KM
+M$$ D  M$M=$M  M
+MMMMMMMMMMMMM  M
+M  ##    #Ms   M
+M 2 ## #  M  M M
+M  #    #$M  4 M
+MMMMMMMMMMMMM MM
+M @       D    M
+M   $    $M MMEM
+M$@@MMM# #M M$ M
+M>        M    M
+MMMMMMMMMDMMMMMM
+M              M
+M3 v          $M
+MMMMMMMMMMMMMMMM

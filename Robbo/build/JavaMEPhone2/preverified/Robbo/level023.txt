@@ -1,0 +1,32 @@
+000085000046125
+MMMMMMMMMMMMM6MM
+M*  M          M
+M 0 M ? a   M  M
+M   M      MM  M
+MMMMM    v     M
+M   MMMMM  #   M
+M   M   M  MM  M
+M   4 2 M   M  M
+M   M   M # M  M
+M   MMMMM      M
+M       MMMMM  M
+M f     M   M  M
+M   MMM M 1 M  M
+M       M   M  M
+M       MM3MM  M
+M         s    M
+M  MMMMM       M
+M  MK  M M M   M
+M  M 8 M MoM f M
+M  M   M M M   M
+M  M MMM       M
+M  M   MMMMM   M
+M  MMM M   M   M
+M     7  6 M   M
+MM MMMMM   M   M
+M M  MMM1MMM   M
+Mv   MM    MM5MM
+M    M2 MA M   M
+M  8 MM    M 4 M
+M    MM    M   M
+MMMMMMM3MM0MMMMM
